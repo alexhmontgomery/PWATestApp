@@ -1,0 +1,38 @@
+{
+  "configVersion": 1,
+  "index": "/PWATestApp/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/PWATestApp/favicon.ico",
+        "/PWATestApp/index.html",
+        "/PWATestApp/inline.318b50c57b4eba3d437b.bundle.js",
+        "/PWATestApp/main.36a387cbe4b7ab0b7469.bundle.js",
+        "/PWATestApp/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
+        "/PWATestApp/scripts.2077db67b91f4b408350.bundle.js",
+        "/PWATestApp/styles.18d42b87b6b750c70dee.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/PWATestApp/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/PWATestApp/main.36a387cbe4b7ab0b7469.bundle.js": "9f164128160e645aa8f13b123dfbacfaf6f836be",
+    "/PWATestApp/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "/PWATestApp/scripts.2077db67b91f4b408350.bundle.js": "9cccdf53af9c46562d7d6552b817d70e3c98b301",
+    "/PWATestApp/styles.18d42b87b6b750c70dee.bundle.css": "a326caf388cf8b6e88c848a93fd04a397be7a538",
+    "/PWATestApp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PWATestApp/index.html": "0bd61fd65285281a6f2f51884311a71ed9623f7a"
+  }
+}
